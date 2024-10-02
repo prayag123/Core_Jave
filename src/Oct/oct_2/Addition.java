@@ -1,6 +1,6 @@
 package Oct.oct_2;
 import java.util.Scanner;
-public class Hello_word {
+public class Addition {
 public static void main(String[] args)
 {
 
